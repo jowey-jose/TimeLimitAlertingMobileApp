@@ -7,11 +7,18 @@
     <string name="login">Login</string>
     <string name="password">Password</string>
     <string name="e_mail">Email</string>
-    <string name="tag">Let\'s join us and \nBuild your </string>
+    <string name="tag">Please Log in to be able to manage Your Time By controlling your distracting app uses. </string>
     <string name="swipe_right_for_login">Swipe Right for Login</string>
     <string name="register">Register</string>
     <string name="re_type_password">Re-type Password</string>
     <string name="your_name">Full Name</string>
 
     <string name="Tab_activity_title">Choose An Action To Focus!!</string>
+    <string name="one">one</string>
+    <string name="three">three</string>
+    <string name="two">two</string>
+    <string name="applicationSwitching_name">Application Switching</string>
+    <string name="Youtube_select">Select YouTube</string>
+    <string name="Google_select">Select Google Chrome App</string>
+
 </resources>
